@@ -28,6 +28,6 @@ With Pandas, I was able to merge Data Frames from the original CSV files and cre
 Overall, the company should investigate Driver Mobility as an issue for customer access and company revenue growth.
 I have three recommendations based on this analysis:
 1. The Pie Charts show a potential for resource allocation to increase access to Rural cities.  It is evident the need for rides is higher than the amount of drivers available.  The company could look at solutions for driver relocation to Rural cities.  
-2. The Scatter Plot and the Box and Whisker Plots show that a driver reallocation from Urban to Rural cities could possibly accomplish the goal of affordability in Rural cities, and potential increase revenues by increasing average fare amounts in Urban cities.
+2. The Scatter Plot and the Box and Whisker Plots show that a driver reallocation from Urban to Rural cities could possibly accomplish the goal of affordability in Rural cities, and potentially increase revenues by increasing average fare amounts in Urban cities.
 3. The Monthly Fare Amount Line Plot shows that a reallocation of drivers would vary from month to month, although only slightly.  For example, the Suburban fares spike at the end of April where Urban and Rural decrease, but during the month of March, the Suburban fares are lower compared to February and April.
 
