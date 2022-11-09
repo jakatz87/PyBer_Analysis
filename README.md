@@ -1,4 +1,4 @@
-# PyBer Analysis
+# Ride Share Analysis
 ## Project Overview
 I was tasked with analyzing ride share data for the company PyBer.  Throughout the project, I created several visualizations using Matplotlib, culminating in a comparison of Monthly Ride Fare amounts by type of city that the company serves.
 
